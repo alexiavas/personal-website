@@ -217,7 +217,7 @@ Orchestrate the content creation and management of all **social media channels**
             />
 
             <ExperienceItem
-              position="Business Operations"
+              position="Executive Operations, Office of the CEO"
               company="JA Europe"
               location="Brussels, Belgium"
               years="September 2022 - September 2023"
